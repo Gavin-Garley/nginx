@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-05T09:18:34.3496765-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 9a044ac3b3d738b8ad832a9449a1f3a0e1c60409c0a167af90df4580f45d9e0a
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/Gavin-Garley/nginx/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-05T09:18:34.3486771-05:00"
